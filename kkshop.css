@@ -1,0 +1,26 @@
+h1, h2, p
+{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+.menu {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+.flavor {
+    text-align: left;
+    width: 75%;
+}
+.price  {
+    text-align: right;
+    width: 25%;
+}
+.item p {
+    display: inline-block;
+}
